@@ -10,7 +10,7 @@ djangorestframework==3.7.7
 psycopg2==2.7.3.2
 
 # Images
-Pillow==4.3.0
+Pillow==9.0.0
 olefile==0.44
 #whitenoise
 whitenoise==3.3.1
