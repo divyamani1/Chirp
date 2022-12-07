@@ -7,7 +7,7 @@ argon2-cffi==16.3.0
 cffi==1.11.2
 pycparser==2.18
 
-certifi==2017.11.5
+certifi==2022.12.7
 
 chardet==3.0.4
 cssselect==1.0.1
