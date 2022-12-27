@@ -22,7 +22,7 @@ pickleshare==0.7.4
 prompt-toolkit==1.0.15
 wcwidth==0.1.7
 Pygments==2.2.0
-setuptools==28.8.0
+setuptools==65.5.1
 simplegeneric==0.8.1
 traitlets==4.3.2
 #python-genutils==0.2.0
